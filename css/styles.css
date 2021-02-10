@@ -429,8 +429,8 @@ h6,
 }
 
 .box {
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 300px;
   border-radius: 70%;
   overflow: hidden;
 }
